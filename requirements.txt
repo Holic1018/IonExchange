@@ -3,4 +3,4 @@ openpyxl
 pandas
 scipy
 xlrd
-matbplotlib
+matplotlib
