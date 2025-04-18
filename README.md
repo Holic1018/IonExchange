@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Holic1018/IonExchange.git/HEAD)
+
 # Ion Exchange Models
 
 Preliminary versions of ion exchange models.
