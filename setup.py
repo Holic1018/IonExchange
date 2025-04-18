@@ -10,7 +10,7 @@ Created on Wed Jun  3 06:46:48 2020
 
 from setuptools import setup
 
-with open("Readme.md", "rb") as f:
+with open("README.md", "rb") as f:
     long_descr = f.read().decode("utf-8")
 
 
